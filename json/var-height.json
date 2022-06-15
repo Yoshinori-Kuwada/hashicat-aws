@@ -1,0 +1,12 @@
+{
+  "data": {
+    "type":"vars",
+    "attributes": {
+      "key":"height",
+      "value":"ws-roJK85DjaLqruAmw",
+      "category":"terraform",
+      "hcl":false,
+      "sensitive":false
+    }
+  }
+}
